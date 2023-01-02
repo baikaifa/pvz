@@ -1,0 +1,4 @@
+repository "psv1@fafabigdream@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
